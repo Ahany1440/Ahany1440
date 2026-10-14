@@ -16,12 +16,6 @@
 
 <br/>
 
-<div align="center">
-<img src="assets/winter.gif" width="480" alt="Looking out over the snow"/>
-</div>
-
-<br/>
-
 Developer focused on **full-stack apps, AI-powered tools and cybersecurity**. I like building things end to end, from a FastAPI backend and database to a clean React frontend, and I enjoy the low-level side too: C++, Linux and microcontrollers.
 
 <table>
@@ -166,4 +160,6 @@ A menu-driven command-line tool for converting text between ROT13, Base64, hex a
 
 <br/>
 
-<img src="assets/footer-v7.svg" width="100%" alt=""/>
+<div align="center">
+<img src="assets/footer.gif" width="100%" alt="Game of Thrones GIF"/>
+</div>
