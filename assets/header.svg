@@ -62,9 +62,9 @@
 <path d="M-40 90 Q150 20 330 80 T700 60 T860 90 L860 130 Q700 90 520 120 T200 110 T-40 130Z" fill="url(#aur)"><animateTransform attributeName="transform" type="translate" values="0 0;40 -8;0 0" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;1;.5" dur="6s" repeatCount="indefinite"/></path>
 <path d="M-60 60 Q200 120 420 50 T880 70 L880 100 Q620 130 400 90 T-60 110Z" fill="url(#aur)" opacity=".6"><animateTransform attributeName="transform" type="translate" values="0 0;-50 10;0 0" dur="12s" repeatCount="indefinite"/></path>
 </g>
-<circle cx="680" cy="62" r="70" fill="url(#halo)"><animate attributeName="r" values="62;78;62" dur="6s" repeatCount="indefinite"/></circle>
-<circle cx="680" cy="62" r="24" fill="url(#moon)"/>
-<circle cx="672" cy="56" r="4" fill="#b7cde0" opacity=".6"/><circle cx="688" cy="70" r="3" fill="#b7cde0" opacity=".5"/>
+<circle cx="470" cy="52" r="56" fill="url(#halo)"><animate attributeName="r" values="48;62;48" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="470" cy="52" r="18" fill="url(#moon)"/>
+<circle cx="464" cy="47" r="3" fill="#b7cde0" opacity=".6"/><circle cx="476" cy="58" r="2.4" fill="#b7cde0" opacity=".5"/>
 <circle cx="329" cy="-8" r="1.0" fill="#fff" opacity="0.62"><animateTransform attributeName="transform" type="translate" values="0 0;-30 296" dur="14.6s" begin="-6.4s" repeatCount="indefinite"/></circle>
 <circle cx="-4" cy="-8" r="0.7" fill="#fff" opacity="0.45"><animateTransform attributeName="transform" type="translate" values="0 0;-30 296" dur="14.8s" begin="-15.6s" repeatCount="indefinite"/></circle>
 <circle cx="791" cy="-8" r="0.9" fill="#fff" opacity="0.74"><animateTransform attributeName="transform" type="translate" values="0 0;-30 296" dur="10.7s" begin="-3.4s" repeatCount="indefinite"/></circle>
@@ -93,12 +93,20 @@
 <g opacity=".55" filter="url(#blur8)"><ellipse cx="200" cy="205" rx="180" ry="14" fill="#cfe3f5"><animateTransform attributeName="transform" type="translate" values="-60 0;80 0;-60 0" dur="16s" repeatCount="indefinite"/></ellipse><ellipse cx="620" cy="215" rx="200" ry="12" fill="#cfe3f5"><animateTransform attributeName="transform" type="translate" values="60 0;-80 0;60 0" dur="20s" repeatCount="indefinite"/></ellipse></g>
 <path d="M0 280 V215 L90 190 L170 212 L280 178 L400 214 L520 186 L640 216 L740 192 L800 208 V280Z" fill="#0a1220"/>
 <path d="M0 280 V245 Q200 228 400 244 T800 240 V280Z" fill="#04070d"/>
-<g transform="translate(560 168)">
-<circle cx="14" cy="-8" r="26" fill="url(#torch)"><animate attributeName="r" values="22;30;24;28;22" dur="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;1;.8;1;.7" dur="1.1s" repeatCount="indefinite"/></circle>
-<path d="M0 22 L4 0 Q6 -14 12 -14 Q18 -14 17 0 L22 22 Z" fill="#02040a"/>
-<path d="M0 22 Q-10 14 -14 22 Z" fill="#02040a"><animate attributeName="d" values="M0 22 Q-10 14 -14 22 Z;M0 22 Q-14 10 -22 20 Z;M0 22 Q-10 14 -14 22 Z" dur="2.5s" repeatCount="indefinite"/></path>
-<line x1="20" y1="-2" x2="26" y2="-18" stroke="#02040a" stroke-width="2"/>
-<circle cx="26" cy="-20" r="3" fill="#ffd27a"><animate attributeName="opacity" values="1;.5;1" dur=".8s" repeatCount="indefinite"/></circle>
+<!-- wolf sigil -->
+<g transform="translate(650 128)">
+<circle r="80" fill="url(#halo)"><animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite"/></circle>
+<circle r="66" fill="#0b1220" opacity=".75" stroke="#cfe3f5" stroke-width="2"/>
+<circle r="72" fill="none" stroke="#9fc3e0" stroke-width="1.2" stroke-dasharray="3 7" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="40s" repeatCount="indefinite"/></circle>
+<circle r="59" fill="none" stroke="#cfe3f5" stroke-width=".8" opacity=".5"/>
+<g transform="translate(0 4) scale(.9)" filter="url(#glow)">
+<path d="M0 58 L-14 40 L-30 22 L-46 4 L-36 -6 L-44 -24 L-40 -64 L-16 -34 L0 -38 L16 -34 L40 -64 L44 -24 L36 -6 L46 4 L30 22 L14 40Z" fill="#cfe3f5"/>
+<path d="M0 -38 L-16 -34 L-8 -4 L0 30Z M-44 -24 L-36 -6 L-46 4 L-24 4Z M44 -24 L36 -6 L46 4 L24 4Z" fill="#9fc3e0" opacity=".7"/>
+<path d="M-36 -52 L-22 -36 L-32 -30Z M36 -52 L22 -36 L32 -30Z" fill="#0b1220" opacity=".7"/>
+<path d="M-24 -9 L-8 -4 L-19 1Z M24 -9 L8 -4 L19 1Z" fill="#8fe3ff"><animate attributeName="fill" values="#8fe3ff;#ffffff;#8fe3ff" dur="3s" repeatCount="indefinite"/></path>
+<path d="M-7 28 L7 28 L0 38Z" fill="#0b1220"/>
+<path d="M0 38 L-7 47 M0 38 L7 47" stroke="#0b1220" stroke-width="2" fill="none"/>
+</g>
 </g>
 <circle cx="598" cy="-8" r="2.7" fill="#fff" opacity="0.86" filter="url(#soft)"><animateTransform attributeName="transform" type="translate" values="0 0;-60 296" dur="7.2s" begin="-5.3s" repeatCount="indefinite"/></circle>
 <circle cx="586" cy="-8" r="2.4" fill="#fff" opacity="0.38" filter="url(#soft)"><animateTransform attributeName="transform" type="translate" values="0 0;-60 296" dur="7.4s" begin="-0.9s" repeatCount="indefinite"/></circle>
@@ -130,7 +138,7 @@
 <g font-family="Georgia, 'Times New Roman', serif">
 <text x="48" y="128" font-size="62" font-weight="bold" letter-spacing="12" fill="url(#shine)" filter="url(#glow)">HANY</text>
 <line x1="50" y1="146" x2="310" y2="146" stroke="#cfe3f5" stroke-width="2" stroke-dasharray="260" stroke-dashoffset="260"><animate attributeName="stroke-dashoffset" values="260;0;0;260" keyTimes="0;0.2;0.85;1" dur="8s" repeatCount="indefinite"/></line>
-<text x="50" y="176" font-size="17" letter-spacing="9" fill="#9fc3e0"><animate attributeName="opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/>FULL-STACK · AI</text>
+<text x="50" y="176" font-size="17" letter-spacing="5" fill="#9fc3e0"><animate attributeName="opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/>FULL-STACK · AI · CYBERSECURITY</text>
 <text x="50" y="202" font-size="12" letter-spacing="5" fill="#cfe3f5" opacity="0"><animate attributeName="opacity" values="0;0;.85;.85" keyTimes="0;.15;.4;1" dur="8s" repeatCount="indefinite"/>REACT · FASTAPI · PYTHON · C++</text>
 </g>
 </svg>

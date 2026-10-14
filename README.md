@@ -1,12 +1,12 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="assets/header.svg" width="100%" alt="HANY — Full-Stack · AI"/>
+<img src="assets/header.svg" width="100%" alt="HANY — Full-Stack · AI · Cybersecurity"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Building-Full--Stack_Web_Apps-cfe3f5?style=flat-square&labelColor=0b1220"/>
 <img src="https://img.shields.io/badge/Exploring-AI_%26_Computer_Vision-2a3a52?style=flat-square&labelColor=0b1220"/>
-<img src="https://img.shields.io/badge/Also-Systems_%26_Security-cfe3f5?style=flat-square&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/Also-Cybersecurity-cfe3f5?style=flat-square&labelColor=0b1220"/>
 
 <br/><br/>
 
@@ -17,13 +17,14 @@
 
 <br/>
 
-Developer focused on **full-stack apps and AI-powered tools**. I like building things end to end, from a FastAPI backend and database to a clean React frontend, and I enjoy the low-level side too: C++, Linux and microcontrollers.
+Developer focused on **full-stack apps, AI-powered tools and cybersecurity**. I like building things end to end, from a FastAPI backend and database to a clean React frontend, and I enjoy the low-level side too: C++, Linux and microcontrollers.
 
 <table>
 <tr><td>⚙️ <b>Full-Stack</b></td><td>React frontends, FastAPI backends, Firebase and Supabase for auth and data</td></tr>
 <tr><td>🧠 <b>AI</b></td><td>AI features in web apps, computer vision with Python, generative AI fundamentals</td></tr>
 <tr><td>🔁 <b>Automation</b></td><td>Python background services, API integrations, real-time alerts</td></tr>
-<tr><td>🖥️ <b>Systems</b></td><td>C/C++, Win32 API, Linux, ESP32 and Bluetooth Low Energy</td></tr>
+<tr><td>🛡️ <b>Cybersecurity</b></td><td>Network scanning, threat visualization, Kali Linux, BLE signal analysis</td></tr>
+<tr><td>🖥️ <b>Systems</b></td><td>C/C++, Win32 API, Linux, ESP32</td></tr>
 </table>
 
 <img src="assets/divider.svg" width="100%"/>
