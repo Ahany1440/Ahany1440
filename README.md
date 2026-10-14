@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/header-v6.svg" width="100%" alt="HANY — Full-Stack · AI · Cybersecurity"/>
+<img src="assets/header-v7.svg" width="100%" alt="HANY — Full-Stack · AI · Cybersecurity"/>
 
 <br/>
 
@@ -11,7 +11,6 @@
 <br/><br/>
 
 <a href="https://github.com/Ahany1440?tab=followers"><img src="https://img.shields.io/github/followers/Ahany1440?style=for-the-badge&logo=github&label=Follow&color=2a3a52&logoColor=cfe3f5&labelColor=0b1220"/></a>
-<img src="https://komarev.com/ghpvc/?username=Ahany1440&style=for-the-badge&color=2a3a52&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -161,4 +160,4 @@ A menu-driven command-line tool for converting text between ROT13, Base64, hex a
 
 <br/>
 
-<img src="assets/footer-v6.svg" width="100%" alt=""/>
+<img src="assets/footer-v7.svg" width="100%" alt=""/>

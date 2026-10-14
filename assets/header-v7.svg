@@ -93,8 +93,8 @@
 <g opacity=".55" filter="url(#blur8)"><ellipse cx="200" cy="205" rx="180" ry="14" fill="#cfe3f5"><animateTransform attributeName="transform" type="translate" values="-60 0;80 0;-60 0" dur="16s" repeatCount="indefinite"/></ellipse><ellipse cx="620" cy="215" rx="200" ry="12" fill="#cfe3f5"><animateTransform attributeName="transform" type="translate" values="60 0;-80 0;60 0" dur="20s" repeatCount="indefinite"/></ellipse></g>
 <path d="M0 280 V215 L90 190 L170 212 L280 178 L400 214 L520 186 L640 216 L740 192 L800 208 V280Z" fill="#0a1220"/>
 <path d="M0 280 V245 Q200 228 400 244 T800 240 V280Z" fill="#04070d"/>
-<!-- long sword running off the bottom edge -->
-<g transform="translate(640 0)">
+<!-- long sword: hilt at mid-height, blade runs off the bottom edge -->
+<g transform="translate(640 62)">
 <defs>
 <linearGradient id="blade" x1="0" x2="1"><stop offset="0" stop-color="#9fc3e0"/><stop offset=".5" stop-color="#f2f8fd"/><stop offset="1" stop-color="#7fa3c4"/></linearGradient>
 <linearGradient id="gleam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
