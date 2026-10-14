@@ -161,5 +161,5 @@ A menu-driven command-line tool for converting text between ROT13, Base64, hex a
 <br/>
 
 <div align="center">
-<img src="assets/footer.gif" width="100%" alt="Game of Thrones GIF"/>
+<img src="assets/footer.gif" width="420" alt="Game of Thrones GIF"/>
 </div>
