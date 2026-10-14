@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/header-v4.svg" width="100%" alt="HANY — Full-Stack · AI · Cybersecurity"/>
+<img src="assets/header-v5.svg" width="100%" alt="HANY — Full-Stack · AI · Cybersecurity"/>
 
 <br/>
 
@@ -161,4 +161,4 @@ A menu-driven command-line tool for converting text between ROT13, Base64, hex a
 
 <br/>
 
-<img src="assets/footer-v4.svg" width="100%" alt=""/>
+<img src="assets/footer-v5.svg" width="100%" alt=""/>
