@@ -1,90 +1,163 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hany" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="HANY — Full-Stack · AI"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3500&pause=1000&color=CFE3F5&center=true&vCenter=true&width=700&lines=Cybersecurity+student;I+build+security+tools+and+scanners;Tinkering+with+ESP32+and+BLE;Shipping+React+%2B+FastAPI+apps" alt="Typing intro"/></a>
+<br/>
 
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-2a3a52?style=for-the-badge&labelColor=0b1220)
-![Kali Linux](https://img.shields.io/badge/Runs%20on-Kali%20Linux-cfe3f5?style=for-the-badge&labelColor=0b1220&logo=kalilinux&logoColor=0b1220)
+<img src="https://img.shields.io/badge/Building-Full--Stack_Web_Apps-cfe3f5?style=flat-square&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/Exploring-AI_%26_Computer_Vision-2a3a52?style=flat-square&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/Also-Systems_%26_Security-cfe3f5?style=flat-square&labelColor=0b1220"/>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<br/><br/>
+
+<a href="https://github.com/Ahany1440?tab=followers"><img src="https://img.shields.io/github/followers/Ahany1440?style=for-the-badge&logo=github&label=Follow&color=2a3a52&logoColor=cfe3f5&labelColor=0b1220"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ahany1440&style=for-the-badge&color=2a3a52&label=PROFILE+VIEWS"/>
 
 </div>
 
-## 🧰 Skills
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,react,nodejs,fastapi,firebase,supabase,linux,kali,arduino,git,github&perline=9" alt="Skills"/>
-</p>
+Developer focused on **full-stack apps and AI-powered tools**. I like building things end to end, from a FastAPI backend and database to a clean React frontend, and I enjoy the low-level side too: C++, Linux and microcontrollers.
 
-| Area | Skills |
-|---|---|
-| 🛡️ **Security** | Cybersecurity, threat intelligence, network reconnaissance, indicators of compromise, BLE/RF analysis, cryptography basics |
-| 💻 **Languages** | Python, C++, C, JavaScript, SQL |
-| 🌐 **Web** | React, FastAPI, HTML, CSS |
-| 🗄️ **Backend & data** | Firebase, Supabase, socket programming |
-| 🧰 **Systems & tools** | Linux (Kali), virtual machines, Git/GitHub, Win32 API, ESP32 |
-| 🧠 **Other** | Computer vision, 3D math, data structures and algorithms |
+<table>
+<tr><td>⚙️ <b>Full-Stack</b></td><td>React frontends, FastAPI backends, Firebase and Supabase for auth and data</td></tr>
+<tr><td>🧠 <b>AI</b></td><td>AI features in web apps, computer vision with Python, generative AI fundamentals</td></tr>
+<tr><td>🔁 <b>Automation</b></td><td>Python background services, API integrations, real-time alerts</td></tr>
+<tr><td>🖥️ <b>Systems</b></td><td>C/C++, Win32 API, Linux, ESP32 and Bluetooth Low Energy</td></tr>
+</table>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
-## 🛠️ Projects
+<div align="center">
 
-### 🛡️ Security tools
+## Tech Stack
 
-<p align="center">
-<a href="https://github.com/Ahany1440/cryptotool-cli"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=cryptotool-cli&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="cryptotool-cli"/></a>
-<a href="https://github.com/Ahany1440/Python-Port-Scanner-Python"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Python-Port-Scanner-Python&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Python-Port-Scanner-Python"/></a>
-<a href="https://github.com/Ahany1440/Directory-Security-Scanner_cpp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Directory-Security-Scanner_cpp&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Directory-Security-Scanner_cpp"/></a>
-<a href="https://github.com/Ahany1440/Process-manager-C-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Process-manager-C-&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Process-manager-C-"/></a>
-</p>
+**Languages**
 
-### 📡 Hardware and IoT
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c"/>
 
-<p align="center">
-<a href="https://github.com/Ahany1440/ESP32-Cyber-Radar-Interactive-BLE-Proximity-Signal-Tracker"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=ESP32-Cyber-Radar-Interactive-BLE-Proximity-Signal-Tracker&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="ESP32-Cyber-Radar-Interactive-BLE-Proximity-Signal-Tracker"/></a>
-</p>
+**Frameworks**
 
-### 🐍 Automation and vision
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css"/>
 
-<p align="center">
-<a href="https://github.com/Ahany1440/Automated-Crypto-Stock-Price-Drop-Notifier"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Automated-Crypto-Stock-Price-Drop-Notifier&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Automated-Crypto-Stock-Price-Drop-Notifier"/></a>
-<a href="https://github.com/Ahany1440/python-camera-movement-detection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=python-camera-movement-detection&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="python-camera-movement-detection"/></a>
-<a href="https://github.com/Ahany1440/Donut-python-render"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Donut-python-render&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Donut-python-render"/></a>
-</p>
+**Data & Tools**
 
-### 🧩 Data structures
+<img src="https://skillicons.dev/icons?i=firebase,supabase,linux,git,github,vscode,arduino"/>
 
-<p align="center">
-<a href="https://github.com/Ahany1440/Singly-Linked-List-CPP"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Singly-Linked-List-CPP&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Singly-Linked-List-CPP"/></a>
-<a href="https://github.com/Ahany1440/Graph-Representation-Implementation"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Graph-Representation-Implementation&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Graph-Representation-Implementation"/></a>
-</p>
+</div>
 
-### 🎮 Small tools and games
+<img src="assets/divider.svg" width="100%"/>
 
-<p align="center">
-<a href="https://github.com/Ahany1440/Alarm-Clock-CLI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Alarm-Clock-CLI&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Alarm-Clock-CLI"/></a>
-<a href="https://github.com/Ahany1440/Python-Advanced-Calculator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Python-Advanced-Calculator&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Python-Advanced-Calculator"/></a>
-<a href="https://github.com/Ahany1440/Python-Guess-the-Number-Game."><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahany1440&repo=Python-Guess-the-Number-Game.&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=9fc3e0&icon_color=cfe3f5&description_lines_count=2" alt="Python-Guess-the-Number-Game."/></a>
-</p>
+## Projects
 
-Also built, not public yet: **MindSpace** (React + FastAPI + Supabase/Firebase), **Threat-Pulse** cyberattack map, **Exam Portal**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+### 🧠 MindSpace
+*Full-stack AI web app*
 
-## 📊 Stats
+A web app with AI features, built with a React frontend and a FastAPI backend, using Supabase and Firebase for user accounts and storage.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahany1440&show_icons=true&hide_border=true&bg_color=0b1220&border_color=2a3a52&title_color=cfe3f5&text_color=cfe3f5&icon_color=cfe3f5" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahany1440&layout=compact&hide_border=true&bg_color=0b1220&border_color=2a3a52&title_color=cfe3f5&text_color=cfe3f5" alt="Top languages"/>
-</p>
+`React` `FastAPI` `Supabase` `Firebase`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahany1440&hide_border=true&background=0b1220&stroke=2a3a52&ring=cfe3f5&fire=cfe3f5&currStreakLabel=cfe3f5&sideLabels=cfe3f5&currStreakNum=cfe3f5&sideNums=cfe3f5&dates=9fc3e0" alt="Streak"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahany1440&bg_color=0b1220&color=cfe3f5&line=cfe3f5&point=ffffff&area=true&area_color=2a3a52&hide_border=true" alt="Activity graph"/>
-</p>
+### 🌐 Threat-Pulse
+*Real-time attack map*
 
-<img src="assets/footer.svg" alt="" width="100%"/>
+A live, simulated dashboard that visualizes cyberattacks around the world as they happen, built for learning and demos.
+
+`JavaScript` `HTML` `CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Crypto Price Notifier
+*Automated price alerts*
+
+A Python service that watches prices through the Binance API and sends an alert the moment something drops past a set threshold.
+
+`Python` `Binance API`
+
+[**→ Repository**](https://github.com/Ahany1440/Automated-Crypto-Stock-Price-Drop-Notifier)
+
+</td>
+<td width="50%" valign="top">
+
+### 📷 Motion Detection
+*Computer vision with a webcam*
+
+Reads a live camera feed and sounds an alarm when it detects movement in the frame.
+
+`Python` `Computer Vision`
+
+[**→ Repository**](https://github.com/Ahany1440/python-camera-movement-detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 ESP32 BLE Radar
+*Bluetooth signal tracker*
+
+Firmware for the ESP32 that picks up nearby Bluetooth Low Energy devices, shows them on a terminal dashboard and tracks one by signal strength.
+
+`C++` `ESP32` `BLE`
+
+[**→ Repository**](https://github.com/Ahany1440/ESP32-Cyber-Radar-Interactive-BLE-Proximity-Signal-Tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Cryptotool CLI
+*Encoding toolkit for the terminal*
+
+A menu-driven command-line tool for converting text between ROT13, Base64, hex and binary in one place.
+
+`Shell` `Linux`
+
+[**→ Repository**](https://github.com/Ahany1440/cryptotool-cli)
+
+</td>
+</tr>
+</table>
+
+<sub>More: [Port Scanner](https://github.com/Ahany1440/Python-Port-Scanner-Python) · [Directory Scanner](https://github.com/Ahany1440/Directory-Security-Scanner_cpp) · [Process Manager](https://github.com/Ahany1440/Process-manager-C-) · [3D Donut Renderer](https://github.com/Ahany1440/Donut-python-render) · [Linked List](https://github.com/Ahany1440/Singly-Linked-List-CPP) · [Graphs](https://github.com/Ahany1440/Graph-Representation-Implementation)</sub>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<div align="center">
+
+## GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahany1440&show_icons=true&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=cfe3f5&icon_color=cfe3f5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahany1440&layout=compact&hide_border=true&bg_color=0b1220&title_color=cfe3f5&text_color=cfe3f5"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ahany1440&hide_border=true&background=0b1220&stroke=2a3a52&ring=cfe3f5&fire=cfe3f5&currStreakLabel=cfe3f5&sideLabels=cfe3f5&currStreakNum=ffffff&sideNums=ffffff&dates=9fc3e0"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%"/>
+
+## Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|:---|:---:|
+| ⚡ What Is Generative AI? | LinkedIn Learning |
+| 🤖 Introduction to AI | Google |
+| 🔬 Scientific Computing with Python | freeCodeCamp |
+
+</div>
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt=""/>
