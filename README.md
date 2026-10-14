@@ -16,6 +16,12 @@
 
 <br/>
 
+<div align="center">
+<img src="assets/winter.gif" width="480" alt="Looking out over the snow"/>
+</div>
+
+<br/>
+
 Developer focused on **full-stack apps, AI-powered tools and cybersecurity**. I like building things end to end, from a FastAPI backend and database to a clean React frontend, and I enjoy the low-level side too: C++, Linux and microcontrollers.
 
 <table>
