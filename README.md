@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/header-v8.svg" width="100%" alt="HANY — Full-Stack · AI · Cybersecurity"/>
+<img src="assets/header-v9.svg" width="100%" alt="HANY — Full-Stack · AI · Cybersecurity"/>
 
 <br/>
 
