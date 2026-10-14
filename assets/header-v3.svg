@@ -93,19 +93,26 @@
 <g opacity=".55" filter="url(#blur8)"><ellipse cx="200" cy="205" rx="180" ry="14" fill="#cfe3f5"><animateTransform attributeName="transform" type="translate" values="-60 0;80 0;-60 0" dur="16s" repeatCount="indefinite"/></ellipse><ellipse cx="620" cy="215" rx="200" ry="12" fill="#cfe3f5"><animateTransform attributeName="transform" type="translate" values="60 0;-80 0;60 0" dur="20s" repeatCount="indefinite"/></ellipse></g>
 <path d="M0 280 V215 L90 190 L170 212 L280 178 L400 214 L520 186 L640 216 L740 192 L800 208 V280Z" fill="#0a1220"/>
 <path d="M0 280 V245 Q200 228 400 244 T800 240 V280Z" fill="#04070d"/>
-<!-- wolf sigil -->
+<!-- sword emblem -->
 <g transform="translate(650 128)">
 <circle r="80" fill="url(#halo)"><animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite"/></circle>
 <circle r="66" fill="#0b1220" opacity=".75" stroke="#cfe3f5" stroke-width="2"/>
 <circle r="72" fill="none" stroke="#9fc3e0" stroke-width="1.2" stroke-dasharray="3 7" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="40s" repeatCount="indefinite"/></circle>
 <circle r="59" fill="none" stroke="#cfe3f5" stroke-width=".8" opacity=".5"/>
-<g transform="translate(0 4) scale(.9)" filter="url(#glow)">
-<path d="M0 58 L-14 40 L-30 22 L-46 4 L-36 -6 L-44 -24 L-40 -64 L-16 -34 L0 -38 L16 -34 L40 -64 L44 -24 L36 -6 L46 4 L30 22 L14 40Z" fill="#cfe3f5"/>
-<path d="M0 -38 L-16 -34 L-8 -4 L0 30Z M-44 -24 L-36 -6 L-46 4 L-24 4Z M44 -24 L36 -6 L46 4 L24 4Z" fill="#9fc3e0" opacity=".7"/>
-<path d="M-36 -52 L-22 -36 L-32 -30Z M36 -52 L22 -36 L32 -30Z" fill="#0b1220" opacity=".7"/>
-<path d="M-24 -9 L-8 -4 L-19 1Z M24 -9 L8 -4 L19 1Z" fill="#8fe3ff"><animate attributeName="fill" values="#8fe3ff;#ffffff;#8fe3ff" dur="3s" repeatCount="indefinite"/></path>
-<path d="M-7 28 L7 28 L0 38Z" fill="#0b1220"/>
-<path d="M0 38 L-7 47 M0 38 L7 47" stroke="#0b1220" stroke-width="2" fill="none"/>
+<defs>
+<linearGradient id="blade" x1="0" x2="1"><stop offset="0" stop-color="#9fc3e0"/><stop offset=".5" stop-color="#f2f8fd"/><stop offset="1" stop-color="#7fa3c4"/></linearGradient>
+<linearGradient id="gleam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="bladeClip"><path d="M0 -58 L7 -46 L7 22 L-7 22 L-7 -46Z"/></clipPath>
+</defs>
+<g filter="url(#glow)">
+<path d="M0 -58 L7 -46 L7 22 L-7 22 L-7 -46Z" fill="url(#blade)"/>
+<rect x="-1.2" y="-44" width="2.4" height="62" fill="#7fa3c4" opacity=".8"/>
+<rect x="-10" y="-80" width="20" height="18" fill="url(#gleam)" clip-path="url(#bladeClip)"><animate attributeName="y" values="-80;-80;30" keyTimes="0;.55;1" dur="4s" repeatCount="indefinite"/></rect>
+<path d="M-30 24 Q0 19 30 24 L27 30 Q0 26 -27 30Z" fill="#cfe3f5"/>
+<rect x="-4" y="30" width="8" height="20" rx="2" fill="#2a3a52"/>
+<path d="M-4 34 L4 37 M-4 39 L4 42 M-4 44 L4 47" stroke="#9fc3e0" stroke-width="1.2"/>
+<circle cy="55" r="6" fill="#cfe3f5"/>
+<circle cy="55" r="2.6" fill="#8fe3ff"><animate attributeName="fill" values="#8fe3ff;#ffffff;#8fe3ff" dur="3s" repeatCount="indefinite"/></circle>
 </g>
 </g>
 <circle cx="598" cy="-8" r="2.7" fill="#fff" opacity="0.86" filter="url(#soft)"><animateTransform attributeName="transform" type="translate" values="0 0;-60 296" dur="7.2s" begin="-5.3s" repeatCount="indefinite"/></circle>
