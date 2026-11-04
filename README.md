@@ -61,6 +61,8 @@ A web app with AI features, built with a React frontend and a FastAPI backend, u
 
 `React` `FastAPI` `Supabase` `Firebase`
 
+[**→ Live site**](https://mindspace-eta-vert.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -71,35 +73,49 @@ A live, simulated dashboard that visualizes cyberattacks around the world as the
 
 `JavaScript` `HTML` `CSS`
 
+[**→ Live site**](https://cyber-attacks-map.vercel.app/)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Crypto Price Notifier
-*Automated price alerts*
+### 🗺️ Malware Cartographer
+*Files as 3D terrain*
 
-A Python service that watches prices through the Binance API and sends an alert the moment something drops past a set threshold.
+Drop in any file and fly over it as a 3D landscape. A small neural network in the browser maps code, text, compressed and encrypted regions and flags suspicious features. Nothing is uploaded.
 
-`Python` `Binance API`
+`JavaScript` `three.js` `On-device AI`
 
-[**→ Repository**](https://github.com/Ahany1440/Automated-Crypto-Stock-Price-Drop-Notifier)
+[**→ Live demo**](https://malware-cartographer.vercel.app/) · [**Repository**](https://github.com/Ahany1440/malware-cartographer)
 
 </td>
 <td width="50%" valign="top">
 
-### 📷 Motion Detection
-*Computer vision with a webcam*
+### 🔁 Recast
+*Right-click file converter*
 
-Reads a live camera feed and sounds an alarm when it detects movement in the frame.
+Convert files or strip their hidden metadata from the Windows 11 right-click menu: PDF, Word, PowerPoint, images, audio, video and OCR. Fully offline.
 
-`Python` `Computer Vision`
+`Python` `Windows`
 
-[**→ Repository**](https://github.com/Ahany1440/python-camera-movement-detection)
+[**→ Repository**](https://github.com/Ahany1440/Recast)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 📶 NetUsage
+*Per-app internet usage*
+
+See which apps use your internet on Windows, live and over the last 30+ days, from Windows' own usage log plus Steam and Epic logs. Free and local.
+
+`Python` `Windows`
+
+[**→ Repository**](https://github.com/Ahany1440/NetUsage)
+
+</td>
 <td width="50%" valign="top">
 
 ### 📡 ESP32 BLE Radar
@@ -112,22 +128,10 @@ Firmware for the ESP32 that picks up nearby Bluetooth Low Energy devices, shows 
 [**→ Repository**](https://github.com/Ahany1440/ESP32-Cyber-Radar-Interactive-BLE-Proximity-Signal-Tracker)
 
 </td>
-<td width="50%" valign="top">
-
-### 🔐 Cryptotool CLI
-*Encoding toolkit for the terminal*
-
-A menu-driven command-line tool for converting text between ROT13, Base64, hex and binary in one place.
-
-`Shell` `Linux`
-
-[**→ Repository**](https://github.com/Ahany1440/cryptotool-cli)
-
-</td>
 </tr>
 </table>
 
-<sub>More: [Port Scanner](https://github.com/Ahany1440/Python-Port-Scanner-Python) · [Directory Scanner](https://github.com/Ahany1440/Directory-Security-Scanner_cpp) · [Process Manager](https://github.com/Ahany1440/Process-manager-C-) · [3D Donut Renderer](https://github.com/Ahany1440/Donut-python-render) · [Linked List](https://github.com/Ahany1440/Singly-Linked-List-CPP) · [Graphs](https://github.com/Ahany1440/Graph-Representation-Implementation)</sub>
+<sub>More: [Cryptotool CLI](https://github.com/Ahany1440/cryptotool-cli) · [Crypto Price Notifier](https://github.com/Ahany1440/Automated-Crypto-Stock-Price-Drop-Notifier) · [Motion Detection](https://github.com/Ahany1440/python-camera-movement-detection) · [Spec Ops Audio Fix](https://github.com/Ahany1440/Spec-Ops-The-Line-Audio-fix) · [Port Scanner](https://github.com/Ahany1440/Python-Port-Scanner-Python) · [Directory Scanner](https://github.com/Ahany1440/Directory-Security-Scanner_cpp) · [Process Manager](https://github.com/Ahany1440/Process-manager-C-) · [3D Donut Renderer](https://github.com/Ahany1440/Donut-python-render) · [Linked List](https://github.com/Ahany1440/Singly-Linked-List-CPP) · [Graphs](https://github.com/Ahany1440/Graph-Representation-Implementation)</sub>
 
 <img src="assets/divider.svg" width="100%"/>
 
