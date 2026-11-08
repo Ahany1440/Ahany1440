@@ -92,7 +92,7 @@ ${storm(H)}
 <line x1="44" y1="240" x2="364" y2="240" stroke="${ICE}" stroke-width="2" stroke-dasharray="320" stroke-dashoffset="320"><animate attributeName="stroke-dashoffset" values="320;0;0;320" keyTimes="0;.2;.85;1" dur="9s" repeatCount="indefinite"/></line>
 <text x="44" y="278" ${SANS} font-size="22" font-weight="600" letter-spacing="3" fill="#fff" filter="url(#shadow)">FULL-STACK · AI · CYBERSECURITY</text>
 <clipPath id="ty0"><rect x="44" y="292" height="26" width="0"><animate attributeName="width" values="0;0;281.6;281.6;0;0" keyTimes="0;0.000;0.120;0.323;0.333;1" dur="12s" repeatCount="indefinite"/></rect></clipPath><text x="44" y="310" ${MONO} font-size="16" fill="${MID}" clip-path="url(#ty0)"><tspan fill="${DIM}">&gt;</tspan> building hardware that listens</text><clipPath id="ty1"><rect x="44" y="292" height="26" width="0"><animate attributeName="width" values="0;0;396.0;396.0;0;0" keyTimes="0;0.333;0.453;0.657;0.667;1" dur="12s" repeatCount="indefinite"/></rect></clipPath><text x="44" y="310" ${MONO} font-size="16" fill="${MID}" clip-path="url(#ty1)"><tspan fill="${DIM}">&gt;</tspan> breaking things to learn how to secure them</text><clipPath id="ty2"><rect x="44" y="292" height="26" width="0"><animate attributeName="width" values="0;0;360.8;360.8;0" keyTimes="0;0.667;0.787;0.990;1.000" dur="12s" repeatCount="indefinite"/></rect></clipPath><text x="44" y="310" ${MONO} font-size="16" fill="${MID}" clip-path="url(#ty2)"><tspan fill="${DIM}">&gt;</tspan> shipping full-stack apps with AI inside</text><rect x="44" y="296" width="9" height="17" fill="${ICE}"><animate attributeName="x" values="44;327.6;327.6;44;44;442;442;44;44;406.8;406.8;44" keyTimes="0;0.12;0.3233;0.3332;0.3333;0.4533;0.6567;0.6666;0.6667;0.7867;0.99;1" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect></g>`;
-  write('title.svg', svg(H, body, `${swordDefs(330)}
+  write('title2.svg', svg(H, body, `${swordDefs(330)}
 <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient><mask id="artFade"><rect width="${W}" height="240" fill="url(#fade)"/></mask>
 <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06080c"/><stop offset=".6" stop-color="#121922"/><stop offset="1" stop-color="#1f2935"/></linearGradient>
 <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9fc3e0" stop-opacity="0"/><stop offset="1" stop-color="#9fc3e0" stop-opacity=".12"/></linearGradient>
@@ -251,7 +251,7 @@ const alts = {
   tools: 'Tools: Python, C++, C, JavaScript, SQL, React, FastAPI, HTML, CSS, Firebase, Supabase, Linux, Git, ESP32, sockets.',
 };
 const order = ['title', 'p1', 'p2', 'p3', 'p4', 'p5', 'p6', 'feed', 'tools'];
-const img = k => `<img src="assets/${k === 'feed' ? feed.file : k + '.svg'}" width="100%" align="top" alt="${alts[k]}"/>`;
+const img = k => `<img src="assets/${k === 'feed' ? feed.file : k === 'title' ? 'title2.svg' : k + '.svg'}" width="100%" align="top" alt="${alts[k]}"/>`;
 const tag = k => (links[k] ? `<a href="${links[k].startsWith('http') ? links[k] : U + links[k]}">${img(k)}</a>` : img(k));
 const gif = `<div align="center"><img src="assets/footer.gif" width="420" alt="Game of Thrones GIF"/></div>`;
 fs.writeFileSync('README.md', `<p align="center">\n${order.map(tag).join('')}\n</p>\n\n<br/>\n\n${gif}\n`);
